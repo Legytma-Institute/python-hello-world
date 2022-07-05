@@ -1,11 +1,11 @@
-# python-hello-world
+# python_hello_world
 Projeto para iniciação em programação na linguagem Python.
 
-`hello-world.py`
+`hello_world.py`
 ```Python
-print("Hello world!")
+print("Hello, world!")
 ```
-`python hello-world.py`
+`python hello_world.py`
 
 ## Referências
 - [Documentação sobre Markdown - Útil para a edição do arquivo de ajuda "README.md";](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
